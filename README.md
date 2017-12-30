@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # rentals-app
 
 This README outlines the details of collaborating on this Ember application.
@@ -49,3 +50,7 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+=======
+# EmberTut
+EmberJS Tutorial
+>>>>>>> 331c7a35ac7efbfe7f93ebeed3e64046d29ece73
