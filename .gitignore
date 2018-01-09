@@ -1,5 +1,13 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+#IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+local.properties
+
 # compiled output
 /dist
 /tmp
